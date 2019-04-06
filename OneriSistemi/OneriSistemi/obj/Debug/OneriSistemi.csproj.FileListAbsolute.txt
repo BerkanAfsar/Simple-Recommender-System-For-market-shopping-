@@ -1,0 +1,9 @@
+C:\Users\BERKAN\Desktop\On\OneriSistemi\OneriSistemi\bin\Debug\OneriSistemi.exe.config
+C:\Users\BERKAN\Desktop\On\OneriSistemi\OneriSistemi\bin\Debug\OneriSistemi.exe
+C:\Users\BERKAN\Desktop\On\OneriSistemi\OneriSistemi\bin\Debug\OneriSistemi.pdb
+C:\Users\BERKAN\Desktop\On\OneriSistemi\OneriSistemi\obj\Debug\OneriSistemi.csprojResolveAssemblyReference.cache
+C:\Users\BERKAN\Desktop\On\OneriSistemi\OneriSistemi\obj\Debug\OneriSistemi.exe
+C:\Users\BERKAN\Desktop\On\OneriSistemi\OneriSistemi\obj\Debug\OneriSistemi.pdb
+D:\Data Structures\Data Structure Projeleri\1.Proje\ÖneriSistemi\OneriSistemi\OneriSistemi\bin\Debug\OneriSistemi.exe.config
+D:\Data Structures\Data Structure Projeleri\1.Proje\ÖneriSistemi\OneriSistemi\OneriSistemi\obj\Debug\OneriSistemi.exe
+D:\Data Structures\Data Structure Projeleri\1.Proje\ÖneriSistemi\OneriSistemi\OneriSistemi\obj\Debug\OneriSistemi.pdb
